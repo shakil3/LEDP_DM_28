@@ -1,8 +1,8 @@
 #Google Auto Suggest / Google Instant Search
 	1. video games lyrics			8,100
-	2. video games lalna del ray	6,600	// Not Relavent
-	3. video games free				5,400
-	4. video games list				4,400
+	2. video games lalna del ray		6,600	// Not Relavent
+	3. video games free			5,400
+	4. video games list			4,400
 	5. video games Online			2,900
 
 #Google Related Search	
@@ -11,10 +11,10 @@
 //	video games free
 //	video games lana del rey
 //	video games lyrics
-	video games to play				480		// Low Traffic
+	video games to play			480		// Low Traffic
 	video game video games 			0		// Low Traffic
 
-6. video games download 			1,000
+	6. video games download 		1,000
 
 #Google Keyword Planner
 
@@ -27,15 +27,15 @@
 #Keyword Shitter - keywordshitter.com
 Long Tail Keywords
 	7.	video games with extreme violence harm the minds	0
-	8.	video games you must play							20
-	9.	video games list free download						0
-	10.	video games release date list						0
-	11.	best video games ever list							0
-	12.	horror video games list								70
-	13.	hardest video games list							0
-	14.	japanese video games list							70
-	15.	latest video games list								0
-	16.	multiplayer video game list of games				50
-	17.	video games server list								0
-	18.	violent video games list 							0
-	19. video games to play with girlfriend					260
+	8.	video games you must play				20
+	9.	video games list free download				0
+	10.	video games release date list				0
+	11.	best video games ever list				0
+	12.	horror video games list					70
+	13.	hardest video games list				0
+	14.	japanese video games list				70
+	15.	latest video games list					0
+	16.	multiplayer video game list of games			50
+	17.	video games server list					0
+	18.	violent video games list 				0
+	19. 	video games to play with girlfriend				260
