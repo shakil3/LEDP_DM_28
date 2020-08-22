@@ -1,0 +1,20 @@
+22_August_2020
+#Primary Tools to search any keywords
+Paid Keyword Idea Generator Tool
+	Ahrefs - ahrefs.com
+	Semrush - semrush.com
+	Majestic SEO - majestic.com
+	Keyword Revealer - keywordrevealer.com
+Keyword Idea Generator Tool
+	Google Auto Suggest / Google Instant Search
+	Google Related Search
+	Google Keyword Planner
+	Soovle - soovle.com
+	Ubersuggest - neilpatel.com/ubersuggest
+	Keywordtool.io - keywordtool.io
+	Keyword Shitter - keywordshitter.com
+//For Anaylytics
+	Google Trends - trends.google.com/trends
+//VPN 
+Browsec VPN - chrome.google.com/webstore/detail/browsec-vpn-free-and-unli/omghfjlpggmjjaagoclmmobgdodcjboh?hl=en
+CyberGhost VPN - cyberghostvpn.com/en_US/apps/chrome-vpn
