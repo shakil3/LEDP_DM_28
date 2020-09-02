@@ -39,3 +39,8 @@ Long Tail Keywords
 	17.	video games server list					0
 	18.	violent video games list 				0
 	19. 	video games to play with girlfriend				260
+
+# Banner Image 1280x720
+# Fetures image 1080x720
+# Body Image1000x600
+# Right column Image 500x500 or 600x600 or 400x400
